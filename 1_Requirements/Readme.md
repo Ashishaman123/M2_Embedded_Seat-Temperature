@@ -10,3 +10,19 @@ Now-days everyone is looking for automation and advancements in all the sectors.
 - It is best for European Countries.
 - Low cost and robust system.
 - Modular Approach.
+
+# SWOT ANALYSIS
+## STRENGTHS
+- User Friendly
+- Easy to alter the temperature inside the vehicles.
+- Modular Approach
+- Low cost and Robust system.
+
+## WEAKNESSES
+- Its only applicable for those countries which are having low temperature.
+
+## OPPORTUNITIES
+- It can be implemented by having both Heater and AC.
+
+## THREATS
+- Not suitable for average or high temperature places.
