@@ -1,3 +1,4 @@
+# VEHICLE SEAT HEAT MONITORING SYSTEM
 # REQUIREMENTS
 
 ## INTRODUCTION
@@ -35,13 +36,13 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 -Maintaining of heat in the vehicles seats.
 
 ## Where
-- Used in Automotive Industries.
+- Used in automotive industries.
 
 ## When
-- At low Temperature.
+- At low temperature.
 
 ## How
-- By installing it in vehicle seats.
+- By installing it in vehicle seat and the system will sense that driver or passenger seated or not and heater will generate the heat accordingly.
 
 
 ## High Level Requirements
