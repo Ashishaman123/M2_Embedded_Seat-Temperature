@@ -19,6 +19,6 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 1_Requirements|	Documents detailing requirements and research
 2_Architectures|	Documents specifying design details
 3_Implementation|	All code and documentation
-4_Testplan|	Documents with test plans and procedures
+4_TestPlan|	Documents with test plans and procedures
 5_Simulations|	SimulIDE simulation file
 6_ImagesAndVideos|	Simulation Images and Videos
