@@ -12,17 +12,56 @@ Now-days everyone is looking for automation and advancements in all the sectors.
 - Modular Approach.
 
 # SWOT ANALYSIS
-## STRENGTHS
+## Strengths
 - User Friendly
 - Easy to alter the temperature inside the vehicles.
 - Modular Approach
 - Low cost and Robust system.
 
-## WEAKNESSES
+## Weaknesses
 - Its only applicable for those countries which are having low temperature.
 
-## OPPORTUNITIES
+## Opportunities
 - It can be implemented by having both Heater and AC.
 
-## THREATS
+## Threats
 - Not suitable for average or high temperature places.
+
+# 4W and 1H
+## What
+- Seat_Temperature_Monitoring_System.
+
+## Why
+-
+
+## Where
+- Used in Automotive Industries
+
+## When
+- At low Temperature
+
+## How
+
+
+## High Level Requirements
+|HLR|	Description|
+|-----------------------|------------|
+|HLR1|	Microcontroller|
+|HLR2|	Temperature Sensor|
+|HLR3|	Heat Generation|
+|HLR4|	Display|
+|HLR5|	Software used|
+|HLR_6| ATmega328|
+
+## Low Level Requirements
+|LLR|	Description|
+|-----------------------|------------|
+|LLR_1|	LM35 and ADC
+|LLR_2|	ADC with PWM-fast
+|LLR_3|	Thermoelectric module
+|LLR_4|  LCD and LED
+|LLR_5|	Code Blocks with AVR GCC compiler
+|LLR_6|	SimulIDE
+
+
+
