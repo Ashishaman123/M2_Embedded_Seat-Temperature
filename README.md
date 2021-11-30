@@ -23,3 +23,12 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 5_Simulation|	SimulIDE simulation file
 6_ImagesAndVideos|	Simulation Images and Videos
 
+# Challenges Faced and How Was It Overcome
+
+|No.|	Challenges|	Solution|
+|----|----------|----------|
+|1.|	Generation of makefile|To overcome this problem research on makefiles was done.
+|2.|  Unity testing|Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
+
+|M2_Embedded_Seat-Temperature|
+|---------------------------------------|
