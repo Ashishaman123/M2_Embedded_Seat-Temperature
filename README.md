@@ -40,3 +40,11 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 
 |M2_Embedded_Seat-Temperature|
 |---------------------------------------|
+
+|Code Quality Score|
+|---------------------------------------|
+https://api.codiga.io/project/30138/score/svg
+
+|Code Grade|
+|---------------------------------------|
+https://api.codiga.io/project/30138/status/svg
