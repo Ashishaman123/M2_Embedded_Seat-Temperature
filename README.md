@@ -4,6 +4,10 @@
 |---------------------------------------|
 [![CI](https://github.com/Ashishaman123/M2_Embedded_Seat-Temperature/actions/workflows/main.yml/badge.svg)](https://github.com/Ashishaman123/M2_Embedded_Seat-Temperature/actions/workflows/main.yml)
 
+|Codacy Badge|
+|---------------------------------------|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/11d44b92208243d9a177541df9ab173b)](https://www.codacy.com/gh/Ashishaman123/M2_Embedded_Seat-Temperature/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ashishaman123/M2_Embedded_Seat-Temperature&amp;utm_campaign=Badge_Grade)
+
 # REQUIREMENTS
 
 ## About Project
