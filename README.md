@@ -17,7 +17,7 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 |Folder|	Description|
 |------|-------------|
 1_Requirements|	Documents detailing requirements and research
-2_Architectures|	Documents specifying design details
+2_Design|	Documents specifying design details
 3_Implementation|	All code and documentation
 4_TestPlan|	Documents with test plans and procedures
 5_Simulation|	SimulIDE simulation file
