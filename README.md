@@ -1,5 +1,8 @@
 # VEHICLE SEAT HEAT MONITORING SYSTEM
 
+## CI
+[![CI](https://github.com/Ashishaman123/M2_Embedded_Seat-Temperature/actions/workflows/main.yml/badge.svg)](https://github.com/Ashishaman123/M2_Embedded_Seat-Temperature/actions/workflows/main.yml)
+
 # REQUIREMENTS
 
 ## About Project
