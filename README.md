@@ -1,4 +1,4 @@
-# SEAT TEMPERATURE MONITORING SYSTEM
+# VEHICLE SEAT TEMPERATURE MONITORING SYSTEM
 
 |CI|
 |---------------------------------------|
