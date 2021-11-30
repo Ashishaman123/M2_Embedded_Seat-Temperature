@@ -8,6 +8,15 @@
 |---------------------------------------|
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/11d44b92208243d9a177541df9ab173b)](https://www.codacy.com/gh/Ashishaman123/M2_Embedded_Seat-Temperature/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Ashishaman123/M2_Embedded_Seat-Temperature&amp;utm_campaign=Badge_Grade)
 
+|Code Quality Score|
+|---------------------------------------|
+![code quality score](https://api.codiga.io/project/30138/score/svg)
+
+|Code Grade|
+|---------------------------------------|
+![CODE GRADE](https://api.codiga.io/project/30138/status/svg)
+
+
 # REQUIREMENTS
 
 ## About Project
@@ -41,10 +50,3 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 |M2_Embedded_Seat-Temperature|
 |---------------------------------------|
 
-|Code Quality Score|
-|---------------------------------------|
-https://api.codiga.io/project/30138/score/svg
-
-|Code Grade|
-|---------------------------------------|
-https://api.codiga.io/project/30138/status/svg
