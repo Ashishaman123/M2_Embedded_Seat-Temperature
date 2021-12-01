@@ -30,10 +30,10 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 
 # 4W and 1H
 ## What
-- Seat_Temperature_Monitoring_System.
+- Vehicle_Seat_Temperature_Monitoring_System.
 
 ## Why
--Maintaining of heat in the vehicles seats.
+- Maintaining of heat in the vehicles seats.
 
 ## Where
 - Used in automotive industries.
